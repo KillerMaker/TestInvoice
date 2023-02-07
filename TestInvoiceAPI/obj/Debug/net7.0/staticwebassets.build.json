@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t42QKbeGK1CMNJVUBnGTqZ3wcxPF2vdQmTByAmuybh8=",
+  "Source": "TestInvoiceAPI",
+  "BasePath": "_content/TestInvoiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
